@@ -1,0 +1,19 @@
+.bolded{
+    font-weight: bolder;
+    font-family: 'Do Hyeon', sans-serif;
+}
+.big-font{
+    font-size: 24px;
+}
+.spaced-out{
+    line-height: 50px;
+}
+h1,
+h2,
+h3,
+h4{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+p{
+    font-family: 'Lucida Sans Pro',sans-serif;
+}
